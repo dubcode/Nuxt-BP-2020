@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# ultr4
-
-> My prime Nuxt.js project
+# Nuxt.js Boilerplate
+Includes esLint, Stylelint, Axios, PostCSS, Hooper and more usefull stuff.
 
 ## Build Setup
 
@@ -19,8 +17,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-=======
-# Nuxt-BP-2020
->>>>>>> 4e797eda4270751c19822c0e3426b026d43549e1
